@@ -17,3 +17,8 @@ Next project built by  using **Django** and **VueJS**. Best practical project to
 # Note
 
 To run current application on your local host please install all required tools on your local environment. 
+
+### Example view
+
+![](https://github.com/barkhayot/studynet/blob/main/screencapture-localhost-8080-2021-11-21-13_55_43.jpg = 600x800)
+
