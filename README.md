@@ -20,7 +20,9 @@ To run current application on your local host please install all required tools 
 
 ### Example view
 
-![](https://github.com/barkhayot/studynet/blob/main/screencapture-localhost-8080-2021-11-21-13_55_43.jpg = 600x800)
-
 <img src="https://github.com/barkhayot/studynet/blob/main/screencapture-localhost-8080-2021-11-21-13_55_43.jpg" data-canonical-src="https://github.com/barkhayot/studynet/blob/main/screencapture-localhost-8080-2021-11-21-13_55_43.jpg" width="500" height="400" />
+
+<img src="https://github.com/barkhayot/studynet/blob/main/screencapture-localhost-8080-courses-2021-11-20-20_26_02.jpg" data-canonical-src="https://github.com/barkhayot/studynet/blob/main/screencapture-localhost-8080-courses-2021-11-20-20_26_02.jpg" width="500" height="400" />
+
+
 
