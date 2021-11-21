@@ -47,7 +47,7 @@
                                                 <div class="content">
                                                     <p>{{course.short_description}}</p>
 
-                                                    <a href="#">More</a>
+                                                    <router-link :to = "{ name: 'Course', params: {slug: course.slug}}">More</router-link>
                                                 </div>
                                     </div>
                                     

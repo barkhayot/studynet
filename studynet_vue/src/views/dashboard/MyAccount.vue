@@ -26,6 +26,7 @@ export default {
               .catch(error => {
                 console.log(error)
               })
+
             axios.defaults.headers.common['Authorization'] = ""
             localStorage.removeItem('token')
             this.$store.commit('removeToken')
