@@ -1,0 +1,5 @@
+# StudyNet
+
+## Techniques :
+
+* Python (Django)
